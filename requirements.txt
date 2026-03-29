@@ -7,3 +7,4 @@ streamlit>=1.27.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
 networkx>=2.8.8
+plotly>=5.18.0
