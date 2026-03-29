@@ -1,5 +1,9 @@
 # Diabetes Detector ML
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetesdetection-cfourxuuqrd6bhtbk5lcaj.streamlit.app/)
+
+🔗 **Live Demo:** [https://diabetesdetection-cfourxuuqrd6bhtbk5lcaj.streamlit.app/](https://diabetesdetection-cfourxuuqrd6bhtbk5lcaj.streamlit.app/)
+
 A machine learning powered application for detecting diabetes based on patient data. This project leverages various data science techniques to train, evaluate, and deploy models that predict the likelihood of diabetes in individuals.
 
 ## Features
